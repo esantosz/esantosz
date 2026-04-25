@@ -29,16 +29,16 @@
 <div>
   <h2>📊 GitHub Stats</h2>
 
-  [![](https://github-readme-stats.vercel.app/api?username=esantosz&show_icons=true&theme=material-palenight&hide_border=true&locale=en)](https://github.com/esantosz)
-  [![](https://github-readme-streak-stats.herokuapp.com/?user=esantosz&theme=material-palenight&hide_border=true)](https://github.com/esantosz)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=esantosz&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+  [![](https://github-readme-stats.vercel.app/api?username=eszarate&show_icons=true&theme=material-palenight&hide_border=true&locale=en)](https://github.com/eszarate)
+  [![](https://github-readme-streak-stats.herokuapp.com/?user=eszarate&theme=material-palenight&hide_border=true)](https://github.com/eszarate)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eszarate&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 </div>
 
 <br>
 
 <div>
   <h2>🔝 Top Contributed Repos</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esantosz&theme=material-palenight&hide_border=true&layout=compact&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eszarate&theme=material-palenight&hide_border=true&layout=compact&langs_count=8"/>
 </div>
 
 <br>
